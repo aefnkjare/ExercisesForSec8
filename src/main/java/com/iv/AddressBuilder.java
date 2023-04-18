@@ -1,6 +1,6 @@
 package com.iv;
 
-public class Excersises {
+public class AddressBuilder {
     public static void main(String[] args){
 
     }
